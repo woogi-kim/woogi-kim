@@ -2,10 +2,12 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <br>
-  
+  <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/QueryDisl-6DB33F?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <br>
 </div>
 
 [![Minuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjvk2880&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
