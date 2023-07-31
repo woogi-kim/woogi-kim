@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
    <br>  <br>
 </div>
- <br> <br> <br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjvk2880&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjvk2880)](https://solved.ac/qjvk2880/)
